@@ -1,2 +1,2 @@
-# mcserverlauncher
-MinecraftServerLauncher official Github page.
+# MinecraftServerLauncher
+
