@@ -6,6 +6,8 @@ A MinecraftServerLauncher egy ingyenes szoftver, mely Minecraft szerverek futtat
 * [Honlap (Letöltés)](http://mcserverlauncher.tk)
 * [Wiki](https://github.com/S3nS3IW00/mcserverlauncher/wiki/Főoldal)
 * [Facebook oldal](https://www.facebook.com/mcserverlauncher)
-
+* [Támogatás*](https://www.paypal.me/mcserverlauncher)
 
 **FIGYELEM** A MinecraftServerLauncher nem nyílt forráskódú, a [Creative Commons Nevezd meg! - Ne add el! - Ne változtasd! 4.0 Nemzetközi Licenc](https://creativecommons.org/licenses/by-nc-nd/4.0/) alatt van. 
+
+*Az alkalmazás használata teljesen ingyenes
