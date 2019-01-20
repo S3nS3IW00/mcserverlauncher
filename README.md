@@ -16,6 +16,9 @@ A MinecraftServerLauncher egy ingyenes szoftver, mely Minecraft szerverek futtat
 
 **Az itt felsoroltaktól eltérő operációs rendszerek és Bukkit/Spigot verziók tesztelése esetén várjuk a visszajelzést a működésről!**
 
+<hr>
+
 **FIGYELEM** A MinecraftServerLauncher nem nyílt forráskódú, a [Creative Commons Nevezd meg! - Ne add el! - Ne változtasd! 4.0 Nemzetközi Licenc](https://creativecommons.org/licenses/by-nc-nd/4.0/) alatt van. 
+
 
 *Az alkalmazás használata teljesen ingyenes
