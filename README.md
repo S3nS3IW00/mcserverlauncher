@@ -13,7 +13,7 @@ A MinecraftServerLauncher egy ingyenes szoftver, mely Minecraft szerverek futtat
 ### Alkalmazás
 * Tesztelt operációs rendszerek: Windows XP/10, Ubuntu (Java 8 ellenében minden operációs rendszeren futnia kell)
 ### Plugin
-* Tesztelt Bukkit/Spigot verziók: 1.12, 1.13 (Ez nem zárja ki a többi verzió működését)
+* Tesztelt Bukkit/Spigot verziók: 1.12, 1.13 (Ez nem zárja ki a többi verzió működését, viszont kizárólag Java Edition szervert képes futtatni az alkalmazás!)
 
 **Az itt felsoroltaktól eltérő operációs rendszerek és Bukkit/Spigot verziók tesztelése esetén várjuk a visszajelzést a működésről!**
 
