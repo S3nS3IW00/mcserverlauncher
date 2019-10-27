@@ -9,8 +9,6 @@ A MinecraftServerLauncher egy ingyenes szoftver, mely Minecraft szerverek futtat
 * [Támogatás*](https://www.paypal.me/mcserverlauncher)
 * [Letöltés](https://mcsl.app/download)
 
-**Az itt felsoroltaktól eltérő operációs rendszerek és Bukkit/Spigot verziók tesztelése esetén várjuk a visszajelzést a működésről!**
-
 <hr>
 
 **FIGYELEM** A MinecraftServerLauncher nem nyílt forráskódú!
