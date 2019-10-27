@@ -1,25 +1,18 @@
 # MinecraftServerLauncher
 
-A MinecraftServerLauncher egy ingyenes szoftver, mely Minecraft szerverek futtatására és kezelésére alkalmas, ehhez egy átlátható grafikus felületet ad. Jelenleg két fő funkciója van, a [helyi](https://github.com/S3nS3IW00/mcserverlauncher/wiki/Helyi-szerver)-és a [távoli](https://github.com/S3nS3IW00/mcserverlauncher/wiki/Távoli-szerver) szerver. Az alkalmazás folyamatos fejlesztés alatt áll. Hibákat, ötleteket jelenteni itt a [Github](https://github.com/S3nS3IW00/mcserverlauncher/issues) oldalon, a [Facebook](https://www.facebook.com/mcserverlauncher) oldalon és e-mailban(minecraftserverlauncher@gmail.com) lehet.
+A MinecraftServerLauncher egy ingyenes szoftver, mely Minecraft szerverek futtatására és kezelésére alkalmas, ehhez egy átlátható grafikus felületet ad. Jelenleg két fő funkciója van, a helyi-és a tévoli szerver. Az alkalmazás folyamatos fejlesztés alatt áll. Hibákat, ötleteket jelenteni itt a [Github](https://github.com/S3nS3IW00/mcserverlauncher/issues) oldalon, a [Facebook](https://www.facebook.com/mcserverlauncher) oldalon és e-mailban(report@mcsl.app) lehet. További információkért látogasd meg az alábbi linkeket.
 
 ## Linkek
-* [Honlap](http://mcserverlauncher.tk)
-* [Wiki](https://github.com/S3nS3IW00/mcserverlauncher/wiki/Főoldal)
+* [Honlap](https://mcsl.app)
+* [Wiki](https://mcsl.app/wiki)
 * [Facebook oldal](https://www.facebook.com/mcserverlauncher)
 * [Támogatás*](https://www.paypal.me/mcserverlauncher)
-* [Letöltés](https://github.com/S3nS3IW00/mcserverlauncher/releases)
-
-## Verzió információk
-### Alkalmazás
-* Tesztelt operációs rendszerek: Windows XP/7/10, Ubuntu (Java 8 ellenében minden operációs rendszeren futnia kell)
-### Plugin
-* Tesztelt Bukkit/Spigot verziók: 1.12, 1.13 (Ez nem zárja ki a többi verzió működését, viszont kizárólag Java Edition szervert képes futtatni az alkalmazás!)
+* [Letöltés](https://mcsl.app/download)
 
 **Az itt felsoroltaktól eltérő operációs rendszerek és Bukkit/Spigot verziók tesztelése esetén várjuk a visszajelzést a működésről!**
 
 <hr>
 
-**FIGYELEM** A MinecraftServerLauncher nem nyílt forráskódú, a [Creative Commons Nevezd meg! - Ne add el! - Ne változtasd! 4.0 Nemzetközi Licenc](https://creativecommons.org/licenses/by-nc-nd/4.0/) alatt van. 
-
+**FIGYELEM** A MinecraftServerLauncher nem nyílt forráskódú!
 
 *Az alkalmazás használata teljesen ingyenes
